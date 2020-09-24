@@ -1,1 +1,2 @@
 This is my first file in the GIT environment :)
+This is a change to my first GIT file
